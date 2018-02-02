@@ -4,3 +4,6 @@
 * Information Propagation in the Bitcoin Network
 * Locality Based Approach to Improve Propagation
 * Discovering Bitcoin's Public topology
+* A trustless privacy-preserving reputation system
+
+
